@@ -58,6 +58,10 @@ export default {
         {
           label: 'Dashboard', 
           url:'/dashboard'
+        }, 
+        {
+          label: 'Employee Dashboard', 
+          url: '/employee-dashboard'
         }
       ]
     }
